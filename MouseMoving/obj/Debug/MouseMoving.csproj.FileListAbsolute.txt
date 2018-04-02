@@ -1,0 +1,28 @@
+C:\Projects\mouse moving\MouseMoving\MouseMoving\bin\Debug\MouseMoving.exe.config
+C:\Projects\mouse moving\MouseMoving\MouseMoving\bin\Debug\MouseMoving.exe
+C:\Projects\mouse moving\MouseMoving\MouseMoving\bin\Debug\MouseMoving.pdb
+C:\Projects\mouse moving\MouseMoving\MouseMoving\obj\Debug\MouseMoving.csprojResolveAssemblyReference.cache
+C:\Projects\mouse moving\MouseMoving\MouseMoving\obj\Debug\MouseMoving.Properties.Resources.resources
+C:\Projects\mouse moving\MouseMoving\MouseMoving\obj\Debug\MouseMoving.csproj.GenerateResource.Cache
+C:\Projects\mouse moving\MouseMoving\MouseMoving\obj\Debug\MouseMoving.csproj.CoreCompileInputs.cache
+C:\Projects\mouse moving\MouseMoving\MouseMoving\obj\Debug\MouseMoving.exe
+C:\Projects\mouse moving\MouseMoving\MouseMoving\obj\Debug\MouseMoving.pdb
+C:\Projects\mouse moving\MouseMoving\MouseMoving\bin\Debug\MouseMoving.exe.manifest
+C:\Projects\mouse moving\MouseMoving\MouseMoving\bin\Debug\MouseMoving.application
+C:\Projects\mouse moving\MouseMoving\MouseMoving\obj\Debug\MouseMoving.exe.manifest
+C:\Projects\mouse moving\MouseMoving\MouseMoving\obj\Debug\MouseMoving.application
+C:\Projects\mouse moving\MouseMoving\MouseMoving\obj\Debug\MouseMoving.Form1.resources
+C:\Project_pro\MouseMoving\MouseMoving\bin\Debug\MouseMoving.exe.config
+C:\Project_pro\MouseMoving\MouseMoving\bin\Debug\MouseMoving.exe.manifest
+C:\Project_pro\MouseMoving\MouseMoving\bin\Debug\MouseMoving.application
+C:\Project_pro\MouseMoving\MouseMoving\bin\Debug\MouseMoving.exe
+C:\Project_pro\MouseMoving\MouseMoving\bin\Debug\MouseMoving.pdb
+C:\Project_pro\MouseMoving\MouseMoving\obj\Debug\MouseMoving.csprojResolveAssemblyReference.cache
+C:\Project_pro\MouseMoving\MouseMoving\obj\Debug\MouseMoving.Form1.resources
+C:\Project_pro\MouseMoving\MouseMoving\obj\Debug\MouseMoving.Properties.Resources.resources
+C:\Project_pro\MouseMoving\MouseMoving\obj\Debug\MouseMoving.csproj.GenerateResource.Cache
+C:\Project_pro\MouseMoving\MouseMoving\obj\Debug\MouseMoving.csproj.CoreCompileInputs.cache
+C:\Project_pro\MouseMoving\MouseMoving\obj\Debug\MouseMoving.exe.manifest
+C:\Project_pro\MouseMoving\MouseMoving\obj\Debug\MouseMoving.application
+C:\Project_pro\MouseMoving\MouseMoving\obj\Debug\MouseMoving.exe
+C:\Project_pro\MouseMoving\MouseMoving\obj\Debug\MouseMoving.pdb
